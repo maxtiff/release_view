@@ -1,0 +1,381 @@
+series_id,title,season,units
+DGORDER,Manufacturers' New Orders: Durable Goods,Seasonally Adjusted,Millions of Dollars
+NEWORDER,Manufacturers' New Orders: Nondefense Capital Goods Excluding Aircraft,Seasonally Adjusted,Millions of Dollars
+AMTMIS,Ratio of Manufacturers' Total Inventories to Shipments for All Manufacturing Industries,Seasonally Adjusted,Ratio
+AMTMUS,Ratio of Manufacturers' Total Inventories to Shipments for All Manufacturing Industries,Seasonally Adjusted,Ratio
+AMDMIS,Ratio of Manufacturers' Total Inventories to Shipments for Durable Goods Industries,Seasonally Adjusted,Ratio
+A34SIS,Ratio of Manufacturers' Total Inventories to Shipments for Durable Goods Industries: Computers and Electronic Products,Seasonally Adjusted,Ratio
+A35SIS,"Ratio of Manufacturers' Total Inventories to Shipments for Durable Goods Industries: Electrical Equipment, Appliances, and Components",Seasonally Adjusted,Ratio
+A32SIS,Ratio of Manufacturers' Total Inventories to Shipments for Durable Goods Industries: Fabricated Metal Products,Seasonally Adjusted,Ratio
+A37SIS,Ratio of Manufacturers' Total Inventories to Shipments for Durable Goods Industries: Furniture and Related Products,Seasonally Adjusted,Ratio
+A33SIS,Ratio of Manufacturers' Total Inventories to Shipments for Durable Goods Industries: Machinery,Seasonally Adjusted,Ratio
+A39SIS,Ratio of Manufacturers' Total Inventories to Shipments for Durable Goods Industries: Miscellaneous Durable Goods,Seasonally Adjusted,Ratio
+A27SIS,Ratio of Manufacturers' Total Inventories to Shipments for Durable Goods Industries: Nonmetallic Mineral Products,Seasonally Adjusted,Ratio
+A31SIS,Ratio of Manufacturers' Total Inventories to Shipments for Durable Goods Industries: Primary Metals,Seasonally Adjusted,Ratio
+A36SIS,Ratio of Manufacturers' Total Inventories to Shipments for Durable Goods Industries: Transportation Equipment,Seasonally Adjusted,Ratio
+A21SIS,Ratio of Manufacturers' Total Inventories to Shipments for Durable Goods Industries: Wood Products,Seasonally Adjusted,Ratio
+AMNMIS,Ratio of Manufacturers' Total Inventories to Shipments for Nondurable Goods Industries,Seasonally Adjusted,Ratio
+A15SIS,Ratio of Manufacturers' Total Inventories to Shipments for Nondurable Goods Industries: Apparel,Seasonally Adjusted,Ratio
+A12SIS,Ratio of Manufacturers' Total Inventories to Shipments for Nondurable Goods Industries: Beverage and Tobacco Products,Seasonally Adjusted,Ratio
+A25SIS,Ratio of Manufacturers' Total Inventories to Shipments for Nondurable Goods Industries: Chemical Products,Seasonally Adjusted,Ratio
+A11SIS,Ratio of Manufacturers' Total Inventories to Shipments for Nondurable Goods Industries: Food Products,Seasonally Adjusted,Ratio
+A16SIS,Ratio of Manufacturers' Total Inventories to Shipments for Nondurable Goods Industries: Leather and Allied Products,Seasonally Adjusted,Ratio
+A22SIS,Ratio of Manufacturers' Total Inventories to Shipments for Nondurable Goods Industries: Paper Products,Seasonally Adjusted,Ratio
+A24SIS,Ratio of Manufacturers' Total Inventories to Shipments for Nondurable Goods Industries: Petroleum and Coal Products,Seasonally Adjusted,Ratio
+A26SIS,Ratio of Manufacturers' Total Inventories to Shipments for Nondurable Goods Industries: Plastics and Rubber Products,Seasonally Adjusted,Ratio
+A23SIS,Ratio of Manufacturers' Total Inventories to Shipments for Nondurable Goods Industries: Printing,Seasonally Adjusted,Ratio
+A13SIS,Ratio of Manufacturers' Total Inventories to Shipments for Nondurable Goods Industries: Textile Mills,Seasonally Adjusted,Ratio
+A14SIS,Ratio of Manufacturers' Total Inventories to Shipments for Nondurable Goods Industries: Textile Products,Seasonally Adjusted,Ratio
+AMDMUS,Ratio of Manufacturers' Total Inventories to Unfilled Orders for Durable Goods Industries,Seasonally Adjusted,Ratio
+A34SUS,Ratio of Manufacturers' Total Inventories to Unfilled Orders for Durable Goods Industries: Computers and Electronic Products,Seasonally Adjusted,Ratio
+A35SUS,"Ratio of Manufacturers' Total Inventories to Unfilled Orders for Durable Goods Industries: Electrical Equipment, Appliances, and Components",Seasonally Adjusted,Ratio
+A32SUS,Ratio of Manufacturers' Total Inventories to Unfilled Orders for Durable Goods Industries: Fabricated Metal Products,Seasonally Adjusted,Ratio
+A37SUS,Ratio of Manufacturers' Total Inventories to Unfilled Orders for Durable Goods Industries: Furniture and Related Products,Seasonally Adjusted,Ratio
+A33SUS,Ratio of Manufacturers' Total Inventories to Unfilled Orders for Durable Goods Industries: Machinery,Seasonally Adjusted,Ratio
+A31SUS,Ratio of Manufacturers' Total Inventories to Unfilled Orders for Durable Goods Industries: Primary Metals,Seasonally Adjusted,Ratio
+A36SUS,Ratio of Manufacturers' Total Inventories to Unfilled Orders for Durable Goods Industries: Transportation Equipment,Seasonally Adjusted,Ratio
+AMTMFI,"Value of Manufacturers' Inventories, by Stage of Fabrication: Finished Goods for All Manufacturing Industries",Seasonally Adjusted,Million of Dollars
+AMDMFI,"Value of Manufacturers' Inventories, by Stage of Fabrication: Finished Goods for Durable Goods Industries",Seasonally Adjusted,Million of Dollars
+A34SFI,"Value of Manufacturers' Inventories, by Stage of Fabrication: Finished Goods for Durable Goods Industries: Computers and Electronic Products",Seasonally Adjusted,Million of Dollars
+A35SFI,"Value of Manufacturers' Inventories, by Stage of Fabrication: Finished Goods for Durable Goods Industries: Electrical Equipment, Appliances, and Components",Seasonally Adjusted,Million of Dollars
+A32SFI,"Value of Manufacturers' Inventories, by Stage of Fabrication: Finished Goods for Durable Goods Industries: Fabricated Metal Products",Seasonally Adjusted,Million of Dollars
+A37SFI,"Value of Manufacturers' Inventories, by Stage of Fabrication: Finished Goods for Durable Goods Industries: Furniture and Related Products",Seasonally Adjusted,Million of Dollars
+A33SFI,"Value of Manufacturers' Inventories, by Stage of Fabrication: Finished Goods for Durable Goods Industries: Machinery",Seasonally Adjusted,Million of Dollars
+A39SFI,"Value of Manufacturers' Inventories, by Stage of Fabrication: Finished Goods for Durable Goods Industries: Miscellaneous Durable Goods",Seasonally Adjusted,Million of Dollars
+A27SFI,"Value of Manufacturers' Inventories, by Stage of Fabrication: Finished Goods for Durable Goods Industries: Nonmetallic Mineral Products",Seasonally Adjusted,Million of Dollars
+A31SFI,"Value of Manufacturers' Inventories, by Stage of Fabrication: Finished Goods for Durable Goods Industries: Primary Metals",Seasonally Adjusted,Million of Dollars
+A36SFI,"Value of Manufacturers' Inventories, by Stage of Fabrication: Finished Goods for Durable Goods Industries: Transportation Equipment",Seasonally Adjusted,Million of Dollars
+A21SFI,"Value of Manufacturers' Inventories, by Stage of Fabrication: Finished Goods for Durable Goods Industries: Wood Products",Seasonally Adjusted,Million of Dollars
+AMNMFI,"Value of Manufacturers' Inventories, by Stage of Fabrication: Finished Goods for Nondurable Goods Industries",Seasonally Adjusted,Million of Dollars
+A15SFI,"Value of Manufacturers' Inventories, by Stage of Fabrication: Finished Goods for Nondurable Goods Industries: Apparel",Seasonally Adjusted,Million of Dollars
+A12SFI,"Value of Manufacturers' Inventories, by Stage of Fabrication: Finished Goods for Nondurable Goods Industries: Beverage and Tobacco Products",Seasonally Adjusted,Million of Dollars
+A25SFI,"Value of Manufacturers' Inventories, by Stage of Fabrication: Finished Goods for Nondurable Goods Industries: Chemical Products",Seasonally Adjusted,Million of Dollars
+A11SFI,"Value of Manufacturers' Inventories, by Stage of Fabrication: Finished Goods for Nondurable Goods Industries: Food Products",Seasonally Adjusted,Million of Dollars
+A16SFI,"Value of Manufacturers' Inventories, by Stage of Fabrication: Finished Goods for Nondurable Goods Industries: Leather and Allied Products",Seasonally Adjusted,Million of Dollars
+A22SFI,"Value of Manufacturers' Inventories, by Stage of Fabrication: Finished Goods for Nondurable Goods Industries: Paper Products",Seasonally Adjusted,Million of Dollars
+A24SFI,"Value of Manufacturers' Inventories, by Stage of Fabrication: Finished Goods for Nondurable Goods Industries: Petroleum and Coal Products",Seasonally Adjusted,Million of Dollars
+A26SFI,"Value of Manufacturers' Inventories, by Stage of Fabrication: Finished Goods for Nondurable Goods Industries: Plastics and Rubber Products",Seasonally Adjusted,Million of Dollars
+A23SFI,"Value of Manufacturers' Inventories, by Stage of Fabrication: Finished Goods for Nondurable Goods Industries: Printing",Seasonally Adjusted,Million of Dollars
+A13SFI,"Value of Manufacturers' Inventories, by Stage of Fabrication: Finished Goods for Nondurable Goods Industries: Textile Mills",Seasonally Adjusted,Million of Dollars
+A14SFI,"Value of Manufacturers' Inventories, by Stage of Fabrication: Finished Goods for Nondurable Goods Industries: Textile Products",Seasonally Adjusted,Million of Dollars
+AMTMMI,"Value of Manufacturers' Inventories, by Stage of Fabrication: Materials and Supplies for All Manufacturing Industries",Seasonally Adjusted,Million of Dollars
+AMDMMI,"Value of Manufacturers' Inventories, by Stage of Fabrication: Materials and Supplies for Durable Goods Industries",Seasonally Adjusted,Million of Dollars
+A34SMI,"Value of Manufacturers' Inventories, by Stage of Fabrication: Materials and Supplies for Durable Goods Industries: Computers and Electronic Products",Seasonally Adjusted,Million of Dollars
+A35SMI,"Value of Manufacturers' Inventories, by Stage of Fabrication: Materials and Supplies for Durable Goods Industries: Electrical Equipment, Appliances, and Components",Seasonally Adjusted,Million of Dollars
+A32SMI,"Value of Manufacturers' Inventories, by Stage of Fabrication: Materials and Supplies for Durable Goods Industries: Fabricated Metal Products",Seasonally Adjusted,Million of Dollars
+A37SMI,"Value of Manufacturers' Inventories, by Stage of Fabrication: Materials and Supplies for Durable Goods Industries: Furniture and Related Products",Seasonally Adjusted,Million of Dollars
+A33SMI,"Value of Manufacturers' Inventories, by Stage of Fabrication: Materials and Supplies for Durable Goods Industries: Machinery",Seasonally Adjusted,Million of Dollars
+A39SMI,"Value of Manufacturers' Inventories, by Stage of Fabrication: Materials and Supplies for Durable Goods Industries: Miscellaneous Durable Goods",Seasonally Adjusted,Million of Dollars
+A27SMI,"Value of Manufacturers' Inventories, by Stage of Fabrication: Materials and Supplies for Durable Goods Industries: Nonmetallic Mineral Products",Seasonally Adjusted,Million of Dollars
+A31SMI,"Value of Manufacturers' Inventories, by Stage of Fabrication: Materials and Supplies for Durable Goods Industries: Primary Metals",Seasonally Adjusted,Million of Dollars
+A36SMI,"Value of Manufacturers' Inventories, by Stage of Fabrication: Materials and Supplies for Durable Goods Industries: Transportation Equipment",Seasonally Adjusted,Million of Dollars
+A21SMI,"Value of Manufacturers' Inventories, by Stage of Fabrication: Materials and Supplies for Durable Goods Industries: Wood Products",Seasonally Adjusted,Million of Dollars
+AMNMMI,"Value of Manufacturers' Inventories, by Stage of Fabrication: Materials and Supplies for Nondurable Goods Industries",Seasonally Adjusted,Million of Dollars
+A15SMI,"Value of Manufacturers' Inventories, by Stage of Fabrication: Materials and Supplies for Nondurable Goods Industries: Apparel",Seasonally Adjusted,Million of Dollars
+A12SMI,"Value of Manufacturers' Inventories, by Stage of Fabrication: Materials and Supplies for Nondurable Goods Industries: Beverage and Tobacco Products",Seasonally Adjusted,Million of Dollars
+A25SMI,"Value of Manufacturers' Inventories, by Stage of Fabrication: Materials and Supplies for Nondurable Goods Industries: Chemical Products",Seasonally Adjusted,Million of Dollars
+A11SMI,"Value of Manufacturers' Inventories, by Stage of Fabrication: Materials and Supplies for Nondurable Goods Industries: Food Products",Seasonally Adjusted,Million of Dollars
+A16SMI,"Value of Manufacturers' Inventories, by Stage of Fabrication: Materials and Supplies for Nondurable Goods Industries: Leather and Allied Products",Seasonally Adjusted,Million of Dollars
+A22SMI,"Value of Manufacturers' Inventories, by Stage of Fabrication: Materials and Supplies for Nondurable Goods Industries: Paper Products",Seasonally Adjusted,Million of Dollars
+A24SMI,"Value of Manufacturers' Inventories, by Stage of Fabrication: Materials and Supplies for Nondurable Goods Industries: Petroleum and Coal Products",Seasonally Adjusted,Million of Dollars
+A26SMI,"Value of Manufacturers' Inventories, by Stage of Fabrication: Materials and Supplies for Nondurable Goods Industries: Plastics and Rubber Products",Seasonally Adjusted,Million of Dollars
+A23SMI,"Value of Manufacturers' Inventories, by Stage of Fabrication: Materials and Supplies for Nondurable Goods Industries: Printing",Seasonally Adjusted,Million of Dollars
+A13SMI,"Value of Manufacturers' Inventories, by Stage of Fabrication: Materials and Supplies for Nondurable Goods Industries: Textile Mills",Seasonally Adjusted,Million of Dollars
+A14SMI,"Value of Manufacturers' Inventories, by Stage of Fabrication: Materials and Supplies for Nondurable Goods Industries: Textile Products",Seasonally Adjusted,Million of Dollars
+AMTMWI,"Value of Manufacturers' Inventories, by Stage of Fabrication: Work in Process for All Manufacturing Industries",Seasonally Adjusted,Million of Dollars
+AMDMWI,"Value of Manufacturers' Inventories, by Stage of Fabrication: Work in Process for Durable Goods Industries",Seasonally Adjusted,Million of Dollars
+A34SWI,"Value of Manufacturers' Inventories, by Stage of Fabrication: Work in Process for Durable Goods Industries: Computers and Electronic Products",Seasonally Adjusted,Million of Dollars
+A35SWI,"Value of Manufacturers' Inventories, by Stage of Fabrication: Work in Process for Durable Goods Industries: Electrical Equipment, Appliances, and Components",Seasonally Adjusted,Million of Dollars
+A32SWI,"Value of Manufacturers' Inventories, by Stage of Fabrication: Work in Process for Durable Goods Industries: Fabricated Metal Products",Seasonally Adjusted,Million of Dollars
+A37SWI,"Value of Manufacturers' Inventories, by Stage of Fabrication: Work in Process for Durable Goods Industries: Furniture and Related Products",Seasonally Adjusted,Million of Dollars
+A33SWI,"Value of Manufacturers' Inventories, by Stage of Fabrication: Work in Process for Durable Goods Industries: Machinery",Seasonally Adjusted,Million of Dollars
+A39SWI,"Value of Manufacturers' Inventories, by Stage of Fabrication: Work in Process for Durable Goods Industries: Miscellaneous Durable Goods",Seasonally Adjusted,Million of Dollars
+A27SWI,"Value of Manufacturers' Inventories, by Stage of Fabrication: Work in Process for Durable Goods Industries: Nonmetallic Mineral Products",Seasonally Adjusted,Million of Dollars
+A31SWI,"Value of Manufacturers' Inventories, by Stage of Fabrication: Work in Process for Durable Goods Industries: Primary Metals",Seasonally Adjusted,Million of Dollars
+A36SWI,"Value of Manufacturers' Inventories, by Stage of Fabrication: Work in Process for Durable Goods Industries: Transportation Equipment",Seasonally Adjusted,Million of Dollars
+A21SWI,"Value of Manufacturers' Inventories, by Stage of Fabrication: Work in Process for Durable Goods Industries: Wood Products",Seasonally Adjusted,Million of Dollars
+AMNMWI,"Value of Manufacturers' Inventories, by Stage of Fabrication: Work in Process for Nondurable Goods Industries",Seasonally Adjusted,Million of Dollars
+A15SWI,"Value of Manufacturers' Inventories, by Stage of Fabrication: Work in Process for Nondurable Goods Industries: Apparel",Seasonally Adjusted,Million of Dollars
+A12SWI,"Value of Manufacturers' Inventories, by Stage of Fabrication: Work in Process for Nondurable Goods Industries: Beverage and Tobacco Products",Seasonally Adjusted,Million of Dollars
+A25SWI,"Value of Manufacturers' Inventories, by Stage of Fabrication: Work in Process for Nondurable Goods Industries: Chemical Products",Seasonally Adjusted,Million of Dollars
+A11SWI,"Value of Manufacturers' Inventories, by Stage of Fabrication: Work in Process for Nondurable Goods Industries: Food Products",Seasonally Adjusted,Million of Dollars
+A16SWI,"Value of Manufacturers' Inventories, by Stage of Fabrication: Work in Process for Nondurable Goods Industries: Leather and Allied Products",Seasonally Adjusted,Million of Dollars
+A22SWI,"Value of Manufacturers' Inventories, by Stage of Fabrication: Work in Process for Nondurable Goods Industries: Paper Products",Seasonally Adjusted,Million of Dollars
+A24SWI,"Value of Manufacturers' Inventories, by Stage of Fabrication: Work in Process for Nondurable Goods Industries: Petroleum and Coal Products",Seasonally Adjusted,Million of Dollars
+A26SWI,"Value of Manufacturers' Inventories, by Stage of Fabrication: Work in Process for Nondurable Goods Industries: Plastics and Rubber Products",Seasonally Adjusted,Million of Dollars
+A23SWI,"Value of Manufacturers' Inventories, by Stage of Fabrication: Work in Process for Nondurable Goods Industries: Printing",Seasonally Adjusted,Million of Dollars
+A13SWI,"Value of Manufacturers' Inventories, by Stage of Fabrication: Work in Process for Nondurable Goods Industries: Textile Mills",Seasonally Adjusted,Million of Dollars
+A14SWI,"Value of Manufacturers' Inventories, by Stage of Fabrication: Work in Process for Nondurable Goods Industries: Textile Products",Seasonally Adjusted,Million of Dollars
+AMTMNO,Value of Manufacturers' New Orders for All Manufacturing Industries,Seasonally Adjusted,Million of Dollars
+AMXDNO,Value of Manufacturers' New Orders for All Manufacturing Industries Excluding Defense,Seasonally Adjusted,Million of Dollars
+AMXTNO,Value of Manufacturers' New Orders for All Manufacturing Industries Excluding Transportation,Seasonally Adjusted,Million of Dollars
+AMTUNO,Value of Manufacturers' New Orders for All Manufacturing Industries With Unfilled Orders,Seasonally Adjusted,Million of Dollars
+ADEFNO,Value of Manufacturers' New Orders for Capital Goods: Defense Capital Goods Industries,Seasonally Adjusted,Million of Dollars
+ATCGNO,Value of Manufacturers' New Orders for Capital Goods Industries,Seasonally Adjusted,Million of Dollars
+ANDENO,Value of Manufacturers' New Orders for Capital Goods: Nondefense Capital Goods Industries,Seasonally Adjusted,Million of Dollars
+A34XNO,Value of Manufacturers' New Orders for Communication Equipment Industries,Seasonally Adjusted,Million of Dollars
+ACRPNO,Value of Manufacturers' New Orders for Computers and Related Products Industries,Seasonally Adjusted,Million of Dollars
+ACMSNO,Value of Manufacturers' New Orders for Construction Materials and Supplies Industries,Seasonally Adjusted,Million of Dollars
+ACDGNO,Value of Manufacturers' New Orders for Consumer Goods: Consumer Durable Goods Industries,Seasonally Adjusted,Million of Dollars
+ACNGNO,Value of Manufacturers' New Orders for Consumer Goods: Consumer Nondurable Goods Industries,Seasonally Adjusted,Million of Dollars
+ADXDNO,Value of Manufacturers' New Orders for Consumer Goods: Durable Goods Excluding Defense Industries,Seasonally Adjusted,Million of Dollars
+ADXTNO,Value of Manufacturers' New Orders for Consumer Goods: Durable Goods Excluding Transportation Industries,Seasonally Adjusted,Million of Dollars
+ACOGNO,Value of Manufacturers' New Orders for Consumer Goods Industries,Seasonally Adjusted,Million of Dollars
+A34SNO,Value of Manufacturers' New Orders for Durable Goods Industries: Computers and Electronic Products,Seasonally Adjusted,Million of Dollars
+A34ANO,Value of Manufacturers' New Orders for Durable Goods Industries: Computers and Electronic Products: Computers,Seasonally Adjusted,Million of Dollars
+A34ENO,Value of Manufacturers' New Orders for Durable Goods Industries: Computers and Electronic Products: Defense Communications Equipment,Seasonally Adjusted,Million of Dollars
+A34JNO,Value of Manufacturers' New Orders for Durable Goods Industries: Computers and Electronic Products: Defense Search and Navigation Equipment,Seasonally Adjusted,Million of Dollars
+A34KNO,"Value of Manufacturers' New Orders for Durable Goods Industries: Computers and Electronic Products: Electromedical, Measuring, and Control Instruments",Seasonally Adjusted,Million of Dollars
+A34HNO,Value of Manufacturers' New Orders for Durable Goods Industries: Computers and Electronic Products: Electronic Components,Seasonally Adjusted,Million of Dollars
+A34DNO,Value of Manufacturers' New Orders for Durable Goods Industries: Computers and Electronic Products: Nondefense Communications Equipment,Seasonally Adjusted,Million of Dollars
+A34INO,Value of Manufacturers' New Orders for Durable Goods Industries: Computers and Electronic Products: Nondefense Search and Navigation Equipment,Seasonally Adjusted,Million of Dollars
+A35SNO,"Value of Manufacturers' New Orders for Durable Goods Industries: Electrical Equipment, Appliances, and Components",Seasonally Adjusted,Million of Dollars
+A35CNO,"Value of Manufacturers' New Orders for Durable Goods Industries: Electrical Equipment, Appliances, and Components: Electrical Equipment",Seasonally Adjusted,Million of Dollars
+A35ANO,"Value of Manufacturers' New Orders for Durable Goods Industries: Electrical Equipment, Appliances, and Components: Electric Lighting Equipment",Seasonally Adjusted,Million of Dollars
+A35BNO,"Value of Manufacturers' New Orders for Durable Goods Industries: Electrical Equipment, Appliances, and Components: Household Appliance",Seasonally Adjusted,Million of Dollars
+A32SNO,Value of Manufacturers' New Orders for Durable Goods Industries: Fabricated Metal Products,Seasonally Adjusted,Million of Dollars
+A37SNO,Value of Manufacturers' New Orders for Durable Goods Industries: Furniture and Related Products,Seasonally Adjusted,Million of Dollars
+A33SNO,Value of Manufacturers' New Orders for Durable Goods Industries: Machinery,Seasonally Adjusted,Million of Dollars
+A33CNO,Value of Manufacturers' New Orders for Durable Goods Industries: Machinery: Construction Machinery,Seasonally Adjusted,Million of Dollars
+A33ENO,Value of Manufacturers' New Orders for Durable Goods Industries: Machinery: Industrial Machinery,Seasonally Adjusted,Million of Dollars
+A33MNO,Value of Manufacturers' New Orders for Durable Goods Industries: Machinery: Material Handling Equipment,Seasonally Adjusted,Million of Dollars
+A33INO,Value of Manufacturers' New Orders for Durable Goods Industries: Machinery: Metalworking Machinery,Seasonally Adjusted,Million of Dollars
+A33DNO,"Value of Manufacturers' New Orders for Durable Goods Industries: Machinery: Mining, Oil Field, and Gas Field Machinery",Seasonally Adjusted,Million of Dollars
+A33GNO,Value of Manufacturers' New Orders for Durable Goods Industries: Machinery: Photographic Equipment,Seasonally Adjusted,Million of Dollars
+ATGPNO,"Value of Manufacturers' New Orders for Durable Goods Industries: Machinery: Turbines, Generators, and Other Power Transmission Equipment",Seasonally Adjusted,Million of Dollars
+A33HNO,"Value of Manufacturers' New Orders for Durable Goods Industries: Machinery: Ventilation, Heating, Air-Conditioning, and Refrigeration Equipment",Seasonally Adjusted,Million of Dollars
+A31SNO,Value of Manufacturers' New Orders for Durable Goods Industries: Primary Metals,Seasonally Adjusted,Million of Dollars
+AANMNO,Value of Manufacturers' New Orders for Durable Goods Industries: Primary Metals: Aluminum and Nonferrous Metals,Seasonally Adjusted,Million of Dollars
+A31CNO,Value of Manufacturers' New Orders for Durable Goods Industries: Primary Metals: Ferrous Metal Foundries,Seasonally Adjusted,Million of Dollars
+A31ANO,Value of Manufacturers' New Orders for Durable Goods Industries: Primary Metals: Iron and Steel Mills,Seasonally Adjusted,Million of Dollars
+A36SNO,Value of Manufacturers' New Orders for Durable Goods Industries: Transportation Equipment,Seasonally Adjusted,Million of Dollars
+ADAPNO,Value of Manufacturers' New Orders for Durable Goods Industries: Transportation Equipment: Defense Aircraft and Parts,Seasonally Adjusted,Million of Dollars
+ABTPNO,"Value of Manufacturers' New Orders for Durable Goods Industries: Transportation Equipment: Motor Vehicle Bodies, Parts, and Trailers",Seasonally Adjusted,Million of Dollars
+ANAPNO,Value of Manufacturers' New Orders for Durable Goods Industries: Transportation Equipment: Nondefense Aircraft and Parts,Seasonally Adjusted,Million of Dollars
+A36ZNO,Value of Manufacturers' New Orders for Durable Goods Industries: Transportation Equipment: Ships and Boats,Seasonally Adjusted,Million of Dollars
+AITINO,Value of Manufacturers' New Orders for Information Technology Industries,Seasonally Adjusted,Million of Dollars
+AMVPNO,Value of Manufacturers' New Orders for Motor Vehicles and Parts Industries,Seasonally Adjusted,Million of Dollars
+AMNMNO,Value of Manufacturers' New Orders for Nondurable Goods Industries,Seasonally Adjusted,Million of Dollars
+AODGNO,Value of Manufacturers' New Orders for Other Durable Goods Industries,Seasonally Adjusted,Million of Dollars
+AMTMVS,Value of Manufacturers' Shipments for All Manufacturing Industries,Seasonally Adjusted,Million of Dollars
+AMXDVS,Value of Manufacturers' Shipments for All Manufacturing Industries Excluding Defense,Seasonally Adjusted,Million of Dollars
+AMXTVS,Value of Manufacturers' Shipments for All Manufacturing Industries Excluding Transportation,Seasonally Adjusted,Million of Dollars
+AMTUVS,Value of Manufacturers' Shipments for All Manufacturing Industries With Unfilled Orders,Seasonally Adjusted,Million of Dollars
+ADEFVS,Value of Manufacturers' Shipments for Capital Goods: Defense Capital Goods Industries,Seasonally Adjusted,Million of Dollars
+ATCGVS,Value of Manufacturers' Shipments for Capital Goods Industries,Seasonally Adjusted,Million of Dollars
+ANXAVS,Value of Manufacturers' Shipments for Capital Goods: Nondefense Capital Goods Excluding Aircraft Industries,Seasonally Adjusted,Million of Dollars
+ANDEVS,Value of Manufacturers' Shipments for Capital Goods: Nondefense Capital Goods Industries,Seasonally Adjusted,Million of Dollars
+A34XVS,Value of Manufacturers' Shipments for Communication Equipment Industries,Seasonally Adjusted,Million of Dollars
+ACRPVS,Value of Manufacturers' Shipments for Computers and Related Products Industries,Seasonally Adjusted,Million of Dollars
+ACMSVS,Value of Manufacturers' Shipments for Construction Materials and Supplies Industries,Seasonally Adjusted,Million of Dollars
+ACDGVS,Value of Manufacturers' Shipments for Consumer Goods: Consumer Durable Goods Industries,Seasonally Adjusted,Million of Dollars
+ACNGVS,Value of Manufacturers' Shipments for Consumer Goods: Consumer Nondurable Goods Industries,Seasonally Adjusted,Million of Dollars
+ADXDVS,Value of Manufacturers' Shipments for Consumer Goods: Durable Goods Excluding Defense Industries,Seasonally Adjusted,Million of Dollars
+ADXTVS,Value of Manufacturers' Shipments for Consumer Goods: Durable Goods Excluding Transportation Industries,Seasonally Adjusted,Million of Dollars
+ACOGVS,Value of Manufacturers' Shipments for Consumer Goods Industries,Seasonally Adjusted,Million of Dollars
+AMDMVS,Value of Manufacturers' Shipments for Durable Goods Industries,Seasonally Adjusted,Million of Dollars
+A34SVS,Value of Manufacturers' Shipments for Durable Goods Industries: Computers and Electronic Products,Seasonally Adjusted,Million of Dollars
+A34FVS,Value of Manufacturers' Shipments for Durable Goods Industries: Computers and Electronic Products: Audio and Video Equipment,Seasonally Adjusted,Million of Dollars
+A34AVS,Value of Manufacturers' Shipments for Durable Goods Industries: Computers and Electronic Products: Computers,Seasonally Adjusted,Million of Dollars
+A34BVS,Value of Manufacturers' Shipments for Durable Goods Industries: Computers and Electronic Products: Computer Storage Devices,Seasonally Adjusted,Million of Dollars
+A34EVS,Value of Manufacturers' Shipments for Durable Goods Industries: Computers and Electronic Products: Defense Communications Equipment,Seasonally Adjusted,Million of Dollars
+A34JVS,Value of Manufacturers' Shipments for Durable Goods Industries: Computers and Electronic Products: Defense Search and Navigation Equipment,Seasonally Adjusted,Million of Dollars
+A34KVS,"Value of Manufacturers' Shipments for Durable Goods Industries: Computers and Electronic Products: Electromedical, Measuring, and Control Instruments",Seasonally Adjusted,Million of Dollars
+A34HVS,Value of Manufacturers' Shipments for Durable Goods Industries: Computers and Electronic Products: Electronic Components,Seasonally Adjusted,Million of Dollars
+A34DVS,Value of Manufacturers' Shipments for Durable Goods Industries: Computers and Electronic Products: Nondefense Communications Equipment,Seasonally Adjusted,Million of Dollars
+A34IVS,Value of Manufacturers' Shipments for Durable Goods Industries: Computers and Electronic Products: Nondefense Search and Navigation Equipment,Seasonally Adjusted,Million of Dollars
+A34CVS,Value of Manufacturers' Shipments for Durable Goods Industries: Computers and Electronic Products: Other Peripheral Equipment,Seasonally Adjusted,Million of Dollars
+A35SVS,"Value of Manufacturers' Shipments for Durable Goods Industries: Electrical Equipment, Appliances, and Components",Seasonally Adjusted,Million of Dollars
+A35DVS,"Value of Manufacturers' Shipments for Durable Goods Industries: Electrical Equipment, Appliances, and Components: Batteries",Seasonally Adjusted,Million of Dollars
+A35CVS,"Value of Manufacturers' Shipments for Durable Goods Industries: Electrical Equipment, Appliances, and Components: Electrical Equipment",Seasonally Adjusted,Million of Dollars
+A35AVS,"Value of Manufacturers' Shipments for Durable Goods Industries: Electrical Equipment, Appliances, and Components: Electric Lighting Equipment",Seasonally Adjusted,Million of Dollars
+A35BVS,"Value of Manufacturers' Shipments for Durable Goods Industries: Electrical Equipment, Appliances, and Components: Household Appliance",Seasonally Adjusted,Million of Dollars
+A32SVS,Value of Manufacturers' Shipments for Durable Goods Industries: Fabricated Metal Products,Seasonally Adjusted,Million of Dollars
+A37SVS,Value of Manufacturers' Shipments for Durable Goods Industries: Furniture and Related Products,Seasonally Adjusted,Million of Dollars
+A33SVS,Value of Manufacturers' Shipments for Durable Goods Industries: Machinery,Seasonally Adjusted,Million of Dollars
+A33CVS,Value of Manufacturers' Shipments for Durable Goods Industries: Machinery: Construction Machinery,Seasonally Adjusted,Million of Dollars
+A33AVS,Value of Manufacturers' Shipments for Durable Goods Industries: Machinery: Farm machinery,Seasonally Adjusted,Million of Dollars
+A33EVS,Value of Manufacturers' Shipments for Durable Goods Industries: Machinery: Industrial Machinery,Seasonally Adjusted,Million of Dollars
+A33MVS,Value of Manufacturers' Shipments for Durable Goods Industries: Machinery: Material Handling Equipment,Seasonally Adjusted,Million of Dollars
+A33IVS,Value of Manufacturers' Shipments for Durable Goods Industries: Machinery: Metalworking Machinery,Seasonally Adjusted,Million of Dollars
+A33DVS,"Value of Manufacturers' Shipments for Durable Goods Industries: Machinery: Mining, Oil Field, and Gas Field Machinery",Seasonally Adjusted,Million of Dollars
+A33GVS,Value of Manufacturers' Shipments for Durable Goods Industries: Machinery: Photographic Equipment,Seasonally Adjusted,Million of Dollars
+ATGPVS,"Value of Manufacturers' Shipments for Durable Goods Industries: Machinery: Turbines, Generators, and Other Power Transmission Equipment",Seasonally Adjusted,Million of Dollars
+A33HVS,"Value of Manufacturers' Shipments for Durable Goods Industries: Machinery: Ventilation, Heating, Air-Conditioning, and Refrigeration Equipment",Seasonally Adjusted,Million of Dollars
+A39SVS,Value of Manufacturers' Shipments for Durable Goods Industries: Miscellaneous Durable Goods,Seasonally Adjusted,Million of Dollars
+A27SVS,Value of Manufacturers' Shipments for Durable Goods Industries: Nonmetallic Mineral Products,Seasonally Adjusted,Million of Dollars
+A31SVS,Value of Manufacturers' Shipments for Durable Goods Industries: Primary Metals,Seasonally Adjusted,Million of Dollars
+AANMVS,Value of Manufacturers' Shipments for Durable Goods Industries: Primary Metals: Aluminum and Nonferrous Metals,Seasonally Adjusted,Million of Dollars
+A31CVS,Value of Manufacturers' Shipments for Durable Goods Industries: Primary Metals: Ferrous Metal Foundries,Seasonally Adjusted,Million of Dollars
+A31AVS,Value of Manufacturers' Shipments for Durable Goods Industries: Primary Metals: Iron and Steel Mills,Seasonally Adjusted,Million of Dollars
+A36SVS,Value of Manufacturers' Shipments for Durable Goods Industries: Transportation Equipment,Seasonally Adjusted,Million of Dollars
+A36AVS,Value of Manufacturers' Shipments for Durable Goods Industries: Transportation Equipment: Automobiles,Seasonally Adjusted,Million of Dollars
+ADAPVS,Value of Manufacturers' Shipments for Durable Goods Industries: Transportation Equipment: Defense Aircraft and Parts,Seasonally Adjusted,Million of Dollars
+A36CVS,Value of Manufacturers' Shipments for Durable Goods Industries: Transportation Equipment: Heavy Duty Trucks,Seasonally Adjusted,Million of Dollars
+A36BVS,Value of Manufacturers' Shipments for Durable Goods Industries: Transportation Equipment: Light Trucks and Utility Vehicles,Seasonally Adjusted,Million of Dollars
+ABTPVS,"Value of Manufacturers' Shipments for Durable Goods Industries: Transportation Equipment: Motor Vehicle Bodies, Parts, and Trailers",Seasonally Adjusted,Million of Dollars
+ANAPVS,Value of Manufacturers' Shipments for Durable Goods Industries: Transportation Equipment: Nondefense Aircraft and Parts,Seasonally Adjusted,Million of Dollars
+A36ZVS,Value of Manufacturers' Shipments for Durable Goods Industries: Transportation Equipment: Ships and Boats,Seasonally Adjusted,Million of Dollars
+A21SVS,Value of Manufacturers' Shipments for Durable Goods Industries: Wood Products,Seasonally Adjusted,Million of Dollars
+AITIVS,Value of Manufacturers' Shipments for Information Technology Industries,Seasonally Adjusted,Million of Dollars
+AMVPVS,Value of Manufacturers' Shipments for Motor Vehicles and Parts Industries,Seasonally Adjusted,Million of Dollars
+AMNMVS,Value of Manufacturers' Shipments for Nondurable Goods Industries,Seasonally Adjusted,Million of Dollars
+A15SVS,Value of Manufacturers' Shipments for Nondurable Goods Industries: Apparel,Seasonally Adjusted,Million of Dollars
+A12SVS,Value of Manufacturers' Shipments for Nondurable Goods Industries: Beverage and Tobacco Products,Seasonally Adjusted,Million of Dollars
+A12AVS,Value of Manufacturers' Shipments for Nondurable Goods Industries: Beverage and Tobacco Products: Beverages,Seasonally Adjusted,Million of Dollars
+A12BVS,Value of Manufacturers' Shipments for Nondurable Goods Industries: Beverage and Tobacco Products: Tobacco,Seasonally Adjusted,Million of Dollars
+A25SVS,Value of Manufacturers' Shipments for Nondurable Goods Industries: Chemical Products,Seasonally Adjusted,Million of Dollars
+A25CVS,"Value of Manufacturers' Shipments for Nondurable Goods Industries: Chemical Products: Paints, Coatings, and Adhesives",Seasonally Adjusted,Million of Dollars
+A25AVS,"Value of Manufacturers' Shipments for Nondurable Goods Industries: Chemical Products: Pesticides, Fertilizers, and Other Agricultural Chemicals",Seasonally Adjusted,Million of Dollars
+A25BVS,Value of Manufacturers' Shipments for Nondurable Goods Industries: Chemical Products: Pharmaceuticals and Medicines,Seasonally Adjusted,Million of Dollars
+A11SVS,Value of Manufacturers' Shipments for Nondurable Goods Industries: Food Products,Seasonally Adjusted,Million of Dollars
+A11BVS,Value of Manufacturers' Shipments for Nondurable Goods Industries: Food Products: Dairy Products,Seasonally Adjusted,Million of Dollars
+A11AVS,Value of Manufacturers' Shipments for Nondurable Goods Industries: Food Products: Grain and Oilseed Milling,Seasonally Adjusted,Million of Dollars
+A11CVS,"Value of Manufacturers' Shipments for Nondurable Goods Industries: Food Products: Meat, Poultry, and Seafood Products",Seasonally Adjusted,Million of Dollars
+A16SVS,Value of Manufacturers' Shipments for Nondurable Goods Industries: Leather and Allied Products,Seasonally Adjusted,Million of Dollars
+A22SVS,Value of Manufacturers' Shipments for Nondurable Goods Industries: Paper Products,Seasonally Adjusted,Million of Dollars
+A22BVS,Value of Manufacturers' Shipments for Nondurable Goods Industries: Paper Products: Paperboard Containers,Seasonally Adjusted,Million of Dollars
+A22AVS,"Value of Manufacturers' Shipments for Nondurable Goods Industries: Paper Products: Pulp, Paper, and Paperboard Mills",Seasonally Adjusted,Million of Dollars
+A24SVS,Value of Manufacturers' Shipments for Nondurable Goods Industries: Petroleum and Coal Products,Seasonally Adjusted,Million of Dollars
+A24AVS,Value of Manufacturers' Shipments for Nondurable Goods Industries: Petroleum and Coal Products: Petroleum Refineries,Seasonally Adjusted,Million of Dollars
+A26SVS,Value of Manufacturers' Shipments for Nondurable Goods Industries: Plastics and Rubber Products,Seasonally Adjusted,Million of Dollars
+A23SVS,Value of Manufacturers' Shipments for Nondurable Goods Industries: Printing,Seasonally Adjusted,Million of Dollars
+A13SVS,Value of Manufacturers' Shipments for Nondurable Goods Industries: Textile Mills,Seasonally Adjusted,Million of Dollars
+A14SVS,Value of Manufacturers' Shipments for Nondurable Goods Industries: Textile Products,Seasonally Adjusted,Million of Dollars
+AODGVS,Value of Manufacturers' Shipments for Other Durable Goods Industries,Seasonally Adjusted,Million of Dollars
+AMTMTI,Value of Manufacturers' Total Inventories for All Manufacturing Industries,Seasonally Adjusted,Million of Dollars
+AMXDTI,Value of Manufacturers' Total Inventories for All Manufacturing Industries Excluding Defense,Seasonally Adjusted,Million of Dollars
+AMXTTI,Value of Manufacturers' Total Inventories for All Manufacturing Industries Excluding Transportation,Seasonally Adjusted,Million of Dollars
+AMTUTI,Value of Manufacturers' Total Inventories for All Manufacturing Industries With Unfilled Orders,Seasonally Adjusted,Million of Dollars
+ADEFTI,Value of Manufacturers' Total Inventories for Capital Goods: Defense Capital Goods Industries,Seasonally Adjusted,Million of Dollars
+ATCGTI,Value of Manufacturers' Total Inventories for Capital Goods Industries,Seasonally Adjusted,Million of Dollars
+ANXATI,Value of Manufacturers' Total Inventories for Capital Goods: Nondefense Capital Goods Excluding Aircraft Industries,Seasonally Adjusted,Million of Dollars
+ANDETI,Value of Manufacturers' Total Inventories for Capital Goods: Nondefense Capital Goods Industries,Seasonally Adjusted,Million of Dollars
+A34XTI,Value of Manufacturers' Total Inventories for Communication Equipment Industries,Seasonally Adjusted,Million of Dollars
+ACRPTI,Value of Manufacturers' Total Inventories for Computers and Related Products Industries,Seasonally Adjusted,Million of Dollars
+ACMSTI,Value of Manufacturers' Total Inventories for Construction Materials and Supplies Industries,Seasonally Adjusted,Million of Dollars
+ACDGTI,Value of Manufacturers' Total Inventories for Consumer Goods: Consumer Durable Goods Industries,Seasonally Adjusted,Million of Dollars
+ACNGTI,Value of Manufacturers' Total Inventories for Consumer Goods: Consumer Nondurable Goods Industries,Seasonally Adjusted,Million of Dollars
+ADXDTI,Value of Manufacturers' Total Inventories for Consumer Goods: Durable Goods Excluding Defense Industries,Seasonally Adjusted,Million of Dollars
+ADXTTI,Value of Manufacturers' Total Inventories for Consumer Goods: Durable Goods Excluding Transportation Industries,Seasonally Adjusted,Million of Dollars
+ACOGTI,Value of Manufacturers' Total Inventories for Consumer Goods Industries,Seasonally Adjusted,Million of Dollars
+AMDMTI,Value of Manufacturers' Total Inventories for Durable Goods Industries,Seasonally Adjusted,Million of Dollars
+A34STI,Value of Manufacturers' Total Inventories for Durable Goods Industries: Computers and Electronic Products,Seasonally Adjusted,Million of Dollars
+A34FTI,Value of Manufacturers' Total Inventories for Durable Goods Industries: Computers and Electronic Products: Audio and Video Equipment,Seasonally Adjusted,Million of Dollars
+A34ATI,Value of Manufacturers' Total Inventories for Durable Goods Industries: Computers and Electronic Products: Computers,Seasonally Adjusted,Million of Dollars
+A34BTI,Value of Manufacturers' Total Inventories for Durable Goods Industries: Computers and Electronic Products: Computer Storage Devices,Seasonally Adjusted,Million of Dollars
+A34ETI,Value of Manufacturers' Total Inventories for Durable Goods Industries: Computers and Electronic Products: Defense Communications Equipment,Seasonally Adjusted,Million of Dollars
+A34JTI,Value of Manufacturers' Total Inventories for Durable Goods Industries: Computers and Electronic Products: Defense Search and Navigation Equipment,Seasonally Adjusted,Million of Dollars
+A34KTI,"Value of Manufacturers' Total Inventories for Durable Goods Industries: Computers and Electronic Products: Electromedical, Measuring, and Control Instruments",Seasonally Adjusted,Million of Dollars
+A34HTI,Value of Manufacturers' Total Inventories for Durable Goods Industries: Computers and Electronic Products: Electronic Components,Seasonally Adjusted,Million of Dollars
+A34DTI,Value of Manufacturers' Total Inventories for Durable Goods Industries: Computers and Electronic Products: Nondefense Communications Equipment,Seasonally Adjusted,Million of Dollars
+A34ITI,Value of Manufacturers' Total Inventories for Durable Goods Industries: Computers and Electronic Products: Nondefense Search and Navigation Equipment,Seasonally Adjusted,Million of Dollars
+A34CTI,Value of Manufacturers' Total Inventories for Durable Goods Industries: Computers and Electronic Products: Other Peripheral Equipment,Seasonally Adjusted,Million of Dollars
+A35STI,"Value of Manufacturers' Total Inventories for Durable Goods Industries: Electrical Equipment, Appliances, and Components",Seasonally Adjusted,Million of Dollars
+A35DTI,"Value of Manufacturers' Total Inventories for Durable Goods Industries: Electrical Equipment, Appliances, and Components: Batteries",Seasonally Adjusted,Million of Dollars
+A35CTI,"Value of Manufacturers' Total Inventories for Durable Goods Industries: Electrical Equipment, Appliances, and Components: Electrical Equipment",Seasonally Adjusted,Million of Dollars
+A35ATI,"Value of Manufacturers' Total Inventories for Durable Goods Industries: Electrical Equipment, Appliances, and Components: Electric Lighting Equipment",Seasonally Adjusted,Million of Dollars
+A35BTI,"Value of Manufacturers' Total Inventories for Durable Goods Industries: Electrical Equipment, Appliances, and Components: Household Appliances",Seasonally Adjusted,Million of Dollars
+A32STI,Value of Manufacturers' Total Inventories for Durable Goods Industries: Fabricated Metal Products,Seasonally Adjusted,Million of Dollars
+A37STI,Value of Manufacturers' Total Inventories for Durable Goods Industries: Furniture and Related Products,Seasonally Adjusted,Million of Dollars
+A33STI,Value of Manufacturers' Total Inventories for Durable Goods Industries: Machinery,Seasonally Adjusted,Million of Dollars
+A33CTI,Value of Manufacturers' Total Inventories for Durable Goods Industries: Machinery: Construction Machinery,Seasonally Adjusted,Million of Dollars
+A33ATI,Value of Manufacturers' Total Inventories for Durable Goods Industries: Machinery: Farm machinery,Seasonally Adjusted,Million of Dollars
+A33ETI,Value of Manufacturers' Total Inventories for Durable Goods Industries: Machinery: Industrial Machinery,Seasonally Adjusted,Million of Dollars
+A33MTI,Value of Manufacturers' Total Inventories for Durable Goods Industries: Machinery: Material Handling Equipment,Seasonally Adjusted,Million of Dollars
+A33ITI,Value of Manufacturers' Total Inventories for Durable Goods Industries: Machinery: Metalworking Machinery,Seasonally Adjusted,Million of Dollars
+A33DTI,"Value of Manufacturers' Total Inventories for Durable Goods Industries: Machinery: Mining, Oil Field, and Gas Field Machinery",Seasonally Adjusted,Million of Dollars
+A33GTI,Value of Manufacturers' Total Inventories for Durable Goods Industries: Machinery: Photographic Equipment,Seasonally Adjusted,Million of Dollars
+ATGPTI,"Value of Manufacturers' Total Inventories for Durable Goods Industries: Machinery: Turbines, Generators, and Other Power Transmission Equipment",Seasonally Adjusted,Million of Dollars
+A33HTI,"Value of Manufacturers' Total Inventories for Durable Goods Industries: Machinery: Ventilation, Heating, Air-Conditioning, and Refrigeration Equipment",Seasonally Adjusted,Million of Dollars
+A39STI,Value of Manufacturers' Total Inventories for Durable Goods Industries: Miscellaneous Durable Goods,Seasonally Adjusted,Million of Dollars
+A27STI,Value of Manufacturers' Total Inventories for Durable Goods Industries: Nonmetallic Mineral Products,Seasonally Adjusted,Million of Dollars
+A31STI,Value of Manufacturers' Total Inventories for Durable Goods Industries: Primary Metals,Seasonally Adjusted,Million of Dollars
+AANMTI,Value of Manufacturers' Total Inventories for Durable Goods Industries: Primary Metals: Aluminum and Nonferrous Metals,Seasonally Adjusted,Million of Dollars
+A31CTI,Value of Manufacturers' Total Inventories for Durable Goods Industries: Primary Metals: Ferrous Metal Foundries,Seasonally Adjusted,Million of Dollars
+A31ATI,Value of Manufacturers' Total Inventories for Durable Goods Industries: Primary Metals: Iron and Steel Mills,Seasonally Adjusted,Million of Dollars
+A36STI,Value of Manufacturers' Total Inventories for Durable Goods Industries: Transportation Equipment,Seasonally Adjusted,Million of Dollars
+A36ATI,Value of Manufacturers' Total Inventories for Durable Goods Industries: Transportation Equipment: Automobiles,Seasonally Adjusted,Million of Dollars
+ADAPTI,Value of Manufacturers' Total Inventories for Durable Goods Industries: Transportation Equipment: Defense Aircraft and Parts,Seasonally Adjusted,Million of Dollars
+A36CTI,Value of Manufacturers' Total Inventories for Durable Goods Industries: Transportation Equipment: Heavy Duty Trucks,Seasonally Adjusted,Million of Dollars
+A36BTI,Value of Manufacturers' Total Inventories for Durable Goods Industries: Transportation Equipment: Light Trucks and Utility Vehicles,Seasonally Adjusted,Million of Dollars
+ABTPTI,"Value of Manufacturers' Total Inventories for Durable Goods Industries: Transportation Equipment: Motor Vehicle Bodies, Parts, and Trailers",Seasonally Adjusted,Million of Dollars
+ANAPTI,Value of Manufacturers' Total Inventories for Durable Goods Industries: Transportation Equipment: Nondefense Aircraft and Parts,Seasonally Adjusted,Million of Dollars
+A36ZTI,Value of Manufacturers' Total Inventories for Durable Goods Industries: Transportation Equipment: Ships and Boats,Seasonally Adjusted,Million of Dollars
+A21STI,Value of Manufacturers' Total Inventories for Durable Goods Industries: Wood Products,Seasonally Adjusted,Million of Dollars
+AITITI,Value of Manufacturers' Total Inventories for Information Technology Industries,Seasonally Adjusted,Million of Dollars
+AMVPTI,Value of Manufacturers' Total Inventories for Motor Vehicles and Parts Industries,Seasonally Adjusted,Million of Dollars
+AMNMTI,Value of Manufacturers' Total Inventories for Nondurable Goods Industries,Seasonally Adjusted,Million of Dollars
+A15STI,Value of Manufacturers' Total Inventories for Nondurable Goods Industries: Apparel,Seasonally Adjusted,Million of Dollars
+A12STI,Value of Manufacturers' Total Inventories for Nondurable Goods Industries: Beverage and Tobacco Products,Seasonally Adjusted,Million of Dollars
+A12ATI,Value of Manufacturers' Total Inventories for Nondurable Goods Industries: Beverage and Tobacco Products: Beverages,Seasonally Adjusted,Million of Dollars
+A12BTI,Value of Manufacturers' Total Inventories for Nondurable Goods Industries: Beverage and Tobacco Products: Tobacco,Seasonally Adjusted,Million of Dollars
+A25STI,Value of Manufacturers' Total Inventories for Nondurable Goods Industries: Chemical Products,Seasonally Adjusted,Million of Dollars
+A25CTI,"Value of Manufacturers' Total Inventories for Nondurable Goods Industries: Chemical Products: Paints, Coatings, and Adhesives",Seasonally Adjusted,Million of Dollars
+A25ATI,"Value of Manufacturers' Total Inventories for Nondurable Goods Industries: Chemical Products: Pesticides, Fertilizers, and Other Agricultural Chemicals",Seasonally Adjusted,Million of Dollars
+A25BTI,Value of Manufacturers' Total Inventories for Nondurable Goods Industries: Chemical Products: Pharmaceuticals and Medicines,Seasonally Adjusted,Million of Dollars
+A11STI,Value of Manufacturers' Total Inventories for Nondurable Goods Industries: Food Products,Seasonally Adjusted,Million of Dollars
+A11BTI,Value of Manufacturers' Total Inventories for Nondurable Goods Industries: Food Products: Dairy Products,Seasonally Adjusted,Million of Dollars
+A11ATI,Value of Manufacturers' Total Inventories for Nondurable Goods Industries: Food Products: Grain and Oilseed Milling,Seasonally Adjusted,Million of Dollars
+A11CTI,"Value of Manufacturers' Total Inventories for Nondurable Goods Industries: Food Products: Meat, Poultry, and Seafood Products",Seasonally Adjusted,Million of Dollars
+A16STI,Value of Manufacturers' Total Inventories for Nondurable Goods Industries: Leather and Allied Products,Seasonally Adjusted,Million of Dollars
+A22STI,Value of Manufacturers' Total Inventories for Nondurable Goods Industries: Paper Products,Seasonally Adjusted,Million of Dollars
+A22BTI,Value of Manufacturers' Total Inventories for Nondurable Goods Industries: Paper Products: Paperboard Containers,Seasonally Adjusted,Million of Dollars
+A22ATI,"Value of Manufacturers' Total Inventories for Nondurable Goods Industries: Paper Products: Pulp, Paper, and Paperboard Mills",Seasonally Adjusted,Million of Dollars
+A24STI,Value of Manufacturers' Total Inventories for Nondurable Goods Industries: Petroleum and Coal Products,Seasonally Adjusted,Million of Dollars
+A24ATI,Value of Manufacturers' Total Inventories for Nondurable Goods Industries: Petroleum and Coal Products: Petroleum Refineries,Seasonally Adjusted,Million of Dollars
+A26STI,Value of Manufacturers' Total Inventories for Nondurable Goods Industries: Plastics and Rubber Products,Seasonally Adjusted,Million of Dollars
+A23STI,Value of Manufacturers' Total Inventories for Nondurable Goods Industries: Printing,Seasonally Adjusted,Million of Dollars
+A13STI,Value of Manufacturers' Total Inventories for Nondurable Goods Industries: Textile Mills,Seasonally Adjusted,Million of Dollars
+A14STI,Value of Manufacturers' Total Inventories for Nondurable Goods Industries: Textile Products,Seasonally Adjusted,Million of Dollars
+AODGTI,Value of Manufacturers' Total Inventories for Other Durable Goods Industries,Seasonally Adjusted,Million of Dollars
+AMTMUO,Value of Manufacturers' Unfilled Orders for All Manufacturing Industries,Seasonally Adjusted,Million of Dollars
+AMXDUO,Value of Manufacturers' Unfilled Orders for All Manufacturing Industries Excluding Defense,Seasonally Adjusted,Million of Dollars
+AMXTUO,Value of Manufacturers' Unfilled Orders for All Manufacturing Industries Excluding Transportation,Seasonally Adjusted,Million of Dollars
+ADEFUO,Value of Manufacturers' Unfilled Orders for Capital Goods: Defense Capital Goods Industries,Seasonally Adjusted,Million of Dollars
+ATCGUO,Value of Manufacturers' Unfilled Orders for Capital Goods Industries,Seasonally Adjusted,Million of Dollars
+ANXAUO,Value of Manufacturers' Unfilled Orders for Capital Goods: Nondefense Capital Goods Excluding Aircraft Industries,Seasonally Adjusted,Million of Dollars
+ANDEUO,Value of Manufacturers' Unfilled Orders for Capital Goods: Nondefense Capital Goods Industries,Seasonally Adjusted,Million of Dollars
+A34XUO,Value of Manufacturers' Unfilled Orders for Communication Equipment Industries,Seasonally Adjusted,Million of Dollars
+ACRPUO,Value of Manufacturers' Unfilled Orders for Computers and Related Products Industries,Seasonally Adjusted,Million of Dollars
+ACMSUO,Value of Manufacturers' Unfilled Orders for Construction Materials and Supplies Industries,Seasonally Adjusted,Million of Dollars
+ACDGUO,Value of Manufacturers' Unfilled Orders for Consumer Goods: Consumer Durable Goods Industries,Seasonally Adjusted,Million of Dollars
+ADXDUO,Value of Manufacturers' Unfilled Orders for Consumer Goods: Durable Goods Excluding Defense Industries,Seasonally Adjusted,Million of Dollars
+ADXTUO,Value of Manufacturers' Unfilled Orders for Consumer Goods: Durable Goods Excluding Transportation Industries,Seasonally Adjusted,Million of Dollars
+ACOGUO,Value of Manufacturers' Unfilled Orders for Consumer Goods Industries,Seasonally Adjusted,Million of Dollars
+AMDMUO,Value of Manufacturers' Unfilled Orders for Durable Goods Industries,Seasonally Adjusted,Million of Dollars
+A34SUO,Value of Manufacturers' Unfilled Orders for Durable Goods Industries: Computers and Electronic Products,Seasonally Adjusted,Million of Dollars
+A34AUO,Value of Manufacturers' Unfilled Orders for Durable Goods Industries: Computers and Electronic Products: Computers,Seasonally Adjusted,Million of Dollars
+A34EUO,Value of Manufacturers' Unfilled Orders for Durable Goods Industries: Computers and Electronic Products: Defense Communications Equipment,Seasonally Adjusted,Million of Dollars
+A34JUO,Value of Manufacturers' Unfilled Orders for Durable Goods Industries: Computers and Electronic Products: Defense Search and Navigation Equipment,Seasonally Adjusted,Million of Dollars
+A34KUO,"Value of Manufacturers' Unfilled Orders for Durable Goods Industries: Computers and Electronic Products: Electromedical, Measuring, and Control Instruments",Seasonally Adjusted,Million of Dollars
+A34HUO,Value of Manufacturers' Unfilled Orders for Durable Goods Industries: Computers and Electronic Products: Electronic Components,Seasonally Adjusted,Million of Dollars
+A34DUO,Value of Manufacturers' Unfilled Orders for Durable Goods Industries: Computers and Electronic Products: Nondefense Communications Equipment,Seasonally Adjusted,Million of Dollars
+A34IUO,Value of Manufacturers' Unfilled Orders for Durable Goods Industries: Computers and Electronic Products: Nondefense Search and Navigation Equipment,Seasonally Adjusted,Million of Dollars
+A35SUO,"Value of Manufacturers' Unfilled Orders for Durable Goods Industries: Electrical Equipment, Appliances, and Components",Seasonally Adjusted,Million of Dollars
+A35CUO,"Value of Manufacturers' Unfilled Orders for Durable Goods Industries: Electrical Equipment, Appliances, and Components: Electrical Equipment",Seasonally Adjusted,Million of Dollars
+A35AUO,"Value of Manufacturers' Unfilled Orders for Durable Goods Industries: Electrical Equipment, Appliances, and Components: Electric Lighting Equipment",Seasonally Adjusted,Million of Dollars
+A35BUO,"Value of Manufacturers' Unfilled Orders for Durable Goods Industries: Electrical Equipment, Appliances, and Components: Household Appliance",Seasonally Adjusted,Million of Dollars
+A32SUO,Value of Manufacturers' Unfilled Orders for Durable Goods Industries: Fabricated Metal Products,Seasonally Adjusted,Million of Dollars
+A37SUO,Value of Manufacturers' Unfilled Orders for Durable Goods Industries: Furniture and Related Products,Seasonally Adjusted,Million of Dollars
+A33SUO,Value of Manufacturers' Unfilled Orders for Durable Goods Industries: Machinery,Seasonally Adjusted,Million of Dollars
+A33CUO,Value of Manufacturers' Unfilled Orders for Durable Goods Industries: Machinery: Construction Machinery,Seasonally Adjusted,Million of Dollars
+A33EUO,Value of Manufacturers' Unfilled Orders for Durable Goods Industries: Machinery: Industrial Machinery,Seasonally Adjusted,Million of Dollars
+A33MUO,Value of Manufacturers' Unfilled Orders for Durable Goods Industries: Machinery: Material Handling Equipment,Seasonally Adjusted,Million of Dollars
+A33IUO,Value of Manufacturers' Unfilled Orders for Durable Goods Industries: Machinery: Metalworking Machinery,Seasonally Adjusted,Million of Dollars
+A33DUO,"Value of Manufacturers' Unfilled Orders for Durable Goods Industries: Machinery: Mining, Oil Field, and Gas Field Machinery",Seasonally Adjusted,Million of Dollars
+A33GUO,Value of Manufacturers' Unfilled Orders for Durable Goods Industries: Machinery: Photographic Equipment,Seasonally Adjusted,Million of Dollars
+ATGPUO,"Value of Manufacturers' Unfilled Orders for Durable Goods Industries: Machinery: Turbines, Generators, and Other Power Transmission Equipment",Seasonally Adjusted,Million of Dollars
+A33HUO,"Value of Manufacturers' Unfilled Orders for Durable Goods Industries: Machinery: Ventilation, Heating, Air-Conditioning, and Refrigeration Equipment",Seasonally Adjusted,Million of Dollars
+A31SUO,Value of Manufacturers' Unfilled Orders for Durable Goods Industries: Primary Metals,Seasonally Adjusted,Million of Dollars
+AANMUO,Value of Manufacturers' Unfilled Orders for Durable Goods Industries: Primary Metals: Aluminum and Nonferrous Metals,Seasonally Adjusted,Million of Dollars
+A31CUO,Value of Manufacturers' Unfilled Orders for Durable Goods Industries: Primary Metals: Ferrous Metal Foundries,Seasonally Adjusted,Million of Dollars
+A31AUO,Value of Manufacturers' Unfilled Orders for Durable Goods Industries: Primary Metals: Iron and Steel Mills,Seasonally Adjusted,Million of Dollars
+A36SUO,Value of Manufacturers' Unfilled Orders for Durable Goods Industries: Transportation Equipment,Seasonally Adjusted,Million of Dollars
+ADAPUO,Value of Manufacturers' Unfilled Orders for Durable Goods Industries: Transportation Equipment: Defense Aircraft and Parts,Seasonally Adjusted,Million of Dollars
+ABTPUO,"Value of Manufacturers' Unfilled Orders for Durable Goods Industries: Transportation Equipment: Motor Vehicle Bodies, Parts, and Trailers",Seasonally Adjusted,Million of Dollars
+ANAPUO,Value of Manufacturers' Unfilled Orders for Durable Goods Industries: Transportation Equipment: Nondefense Aircraft and Parts,Seasonally Adjusted,Million of Dollars
+A36ZUO,Value of Manufacturers' Unfilled Orders for Durable Goods Industries: Transportation Equipment: Ships and Boats,Seasonally Adjusted,Million of Dollars
+AITIUO,Value of Manufacturers' Unfilled Orders for Information Technology Industries,Seasonally Adjusted,Million of Dollars
+AMVPUO,Value of Manufacturers' Unfilled Orders for Motor Vehicles and Parts Industries,Seasonally Adjusted,Million of Dollars
+AODGUO,Value of Manufacturers' Unfilled Orders for Other Durable Goods Industries,Seasonally Adjusted,Million of Dollars

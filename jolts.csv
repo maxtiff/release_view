@@ -1,0 +1,72 @@
+series_id,title,season,units
+JTS7200HIR,Hires: Accommodation and Food Services,Seasonally Adjusted,Rate
+JTS7100HIR,"Hires: Arts, Entertainment and Recreation",Seasonally Adjusted,Rate
+JTS2300HIR,Hires: Construction,Seasonally Adjusted,Rate
+JTS6000HIR,Hires: Education and Health Services,Seasonally Adjusted,Rate
+JTS9000HIR,Hires: Government,Seasonally Adjusted,Rate
+JTS7000HIR,Hires: Leisure and Hospitality,Seasonally Adjusted,Rate
+JTS3000HIR,Hires: Manufacturing,Seasonally Adjusted,Rate
+JTS540099HIR,Hires: Professional and Business Services,Seasonally Adjusted,Rate
+JTS4400HIR,Hires: Retail Trade,Seasonally Adjusted,Rate
+JTS9200HIR,Hires: State and Local,Seasonally Adjusted,Rate
+JTSHIR,Hires: Total Nonfarm,Seasonally Adjusted,Rate
+JTS00MWHIR,Hires: Total Nonfarm in Midwest Census Region,Seasonally Adjusted,Rate
+JTS00NEHIR,Hires: Total Nonfarm in Northeast Census Region,Seasonally Adjusted,Rate
+JTS00SOHIR,Hires: Total Nonfarm in South Census Region,Seasonally Adjusted,Rate
+JTS00WEHIR,Hires: Total Nonfarm in West Census Region,Seasonally Adjusted,Rate
+JTS1000HIR,Hires: Total Private,Seasonally Adjusted,Rate
+JTS4000HIR,"Hires: Trade, Transportation and Utilities",Seasonally Adjusted,Rate
+JTS7200JOR,Job Openings: Accommodation and Food Services,Seasonally Adjusted,Rate
+JTS7100JOR,"Job Openings: Arts, Entertainment and Recreation",Seasonally Adjusted,Rate
+JTS2300JOR,Job Openings: Construction,Seasonally Adjusted,Rate
+JTS6000JOR,Job Openings: Education and Health Services,Seasonally Adjusted,Rate
+JTS9000JOR,Job Openings: Government,Seasonally Adjusted,Rate
+JTS7000JOR,Job Openings: Leisure and Hospitality,Seasonally Adjusted,Rate
+JTS3000JOR,Job Openings: Manufacturing,Seasonally Adjusted,Rate
+JTS540099JOR,Job Openings: Professional and Business Services,Seasonally Adjusted,Rate
+JTS4400JOR,Job Openings: Retail Trade,Seasonally Adjusted,Rate
+JTS9200JOR,Job Openings: State and Local,Seasonally Adjusted,Rate
+JTSJOR,Job Openings: Total Nonfarm,Seasonally Adjusted,Rate
+JTS00MWJOR,Job Openings: Total Nonfarm  in Midwest Census Region,Seasonally Adjusted,Rate
+JTS00NEJOR,Job Openings: Total Nonfarm in Northeast Census Region,Seasonally Adjusted,Rate
+JTS00SOJOR,Job Openings: Total Nonfarm in South Census Region,Seasonally Adjusted,Rate
+JTS00WEJOR,Job Openings: Total Nonfarm in West Census Region,Seasonally Adjusted,Rate
+JTS1000JOR,Job Openings: Total Private,Seasonally Adjusted,Rate
+JTS4000JOR,"Job Openings: Trade, Transportation and Utilities",Seasonally Adjusted,Rate
+JTS9000LDR,Layoffs and Discharges: Government,Seasonally Adjusted,Rate
+JTSLDR,Layoffs and Discharges: Total Nonfarm,Seasonally Adjusted,Rate
+JTS1000LDR,Layoffs and Discharges: Total Private,Seasonally Adjusted,Rate
+JTS7200QUR,Quits: Accommodation and Food Services,Seasonally Adjusted,Rate
+JTS7100QUR,"Quits: Arts, Entertainment and Recreation",Seasonally Adjusted,Rate
+JTS2300QUR,Quits: Construction,Seasonally Adjusted,Rate
+JTS6000QUR,Quits: Education and Health Services,Seasonally Adjusted,Rate
+JTS9000QUR,Quits: Government,Seasonally Adjusted,Rate
+JTS7000QUR,Quits: Leisure and Hospitality,Seasonally Adjusted,Rate
+JTS3000QUR,Quits: Manufacturing,Seasonally Adjusted,Rate
+JTS540099QUR,Quits: Professional and Business Services,Seasonally Adjusted,Rate
+JTS4400QUR,Quits: Retail Trade,Seasonally Adjusted,Rate
+JTS9200QUR,Quits: State and Local,Seasonally Adjusted,Rate
+JTSQUR,Quits: Total Nonfarm,Seasonally Adjusted,Rate
+JTS00MWQUR,Quits: Total Nonfarm in Midwest Census Region,Seasonally Adjusted,Rate
+JTS00NEQUR,Quits: Total Nonfarm in Northeast Census Region ,Seasonally Adjusted,Rate
+JTS00SOQUR,Quits: Total Nonfarm in South Census Region,Seasonally Adjusted,Rate
+JTS00WEQUR,Quits: Total Nonfarm in West Census Region,Seasonally Adjusted,Rate
+JTS1000QUR,Quits: Total Private,Seasonally Adjusted,Rate
+JTS4000QUR,"Quits: Trade, Transportation and Utilities",Seasonally Adjusted,Rate
+JTS7200TSR,Total Separations: Accommodation and Food Services,Seasonally Adjusted,Rate
+JTS7100TSR,"Total Separations: Arts, Entertainment and Recreation",Seasonally Adjusted,Rate
+JTS2300TSR,Total Separations: Construction,Seasonally Adjusted,Rate
+JTS6000TSR,Total Separations: Education and Health Services,Seasonally Adjusted,Rate
+JTS9000TSR,Total Separations: Government,Seasonally Adjusted,Rate
+JTS7000TSR,Total Separations: Leisure and Hospitality,Seasonally Adjusted,Rate
+JTS3000TSR,Total Separations: Manufacturing,Seasonally Adjusted,Rate
+JTS540099TSR,Total Separations: Professional and Business Services,Seasonally Adjusted,Rate
+JTS4400TSR,Total Separations: Retail Trade,Seasonally Adjusted,Rate
+JTS9200TSR,Total Separations: State and Local,Seasonally Adjusted,Rate
+JTSTSR,Total Separations: Total Nonfarm,Seasonally Adjusted,Rate
+JTS00MWTSR,Total Separations: Total Nonfarm in Midwest Census Region ,Seasonally Adjusted,Rate
+JTS00NETSR,Total Separations: Total Nonfarm in Northeast Census Region,Seasonally Adjusted,Rate
+JTS00SOTSR,Total Separations: Total Nonfarm in South Census Region,Seasonally Adjusted,Rate
+JTS00WETSR,Total Separations: Total Nonfarm in West Census Region,Seasonally Adjusted,Rate
+JTS1000TSR,Total Separations: Total Private,Seasonally Adjusted,Rate
+JTS4000TSR,"Total Separations: Trade, Transportation and Utilities",Seasonally Adjusted,Rate
